@@ -1,4 +1,4 @@
-# 🚀 GitHub Scavenger Hunt Starter Repo
+#  ✨GitHub Scavenger Hunt Starter Repo✨
 
 Welcome to the **GitHub Scavenger Hunt**! Follow the challenges below to learn and practice using GitHub. 
 
