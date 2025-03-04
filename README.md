@@ -14,29 +14,24 @@ Welcome to the **GitHub Scavenger Hunt**! Follow the challenges below to learn a
 
 ## Scavenger Hunt Challenges
 
-###  Easy (5 pts)
 - [ ] Star this repository 
 - [ ] Watch this repository 
 - [ ] Follow another club member 
 
-###  Medium (10 pts)
 - [ ] Create a new branch named `yourUsername-teamName`
 - [ ] Add your name to the `CONTRIBUTORS.md` file
+- [ ] Add a `fun-fact.md` file with a fact about women in tech 
+- [ ] Complete the TODO in the python quiz file
 - [ ] Commit and push your changes 
 
-### Hard (15 pts)
 - [ ] Open an issue in this repository 
 - [ ] Submit a pull request with your changes 
 - [ ] Find and review someone else's pull request 
 
-### Bonus (20 pts)
-- [ ] Add a `fun-fact.md` file with a fact about women in tech 
-- [ ] Create a markdown file with an idea for a volunteer opportunity 
 
 ---
 
 ## How to Win
-- Each task earns you points.
-- The member with the highest points at the end of the session wins!
+Be the first to finish (Correctly please!)
 
 Good luck, and have fun!
