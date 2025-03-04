@@ -21,7 +21,10 @@
    ```
 
 ### **4. Make Your Changes**
-- Edit files using a text editor.
+- Edit files using an editor (This will open Quiz.py in VS code, other editors may need different commands, or open manually)
+     ```sh
+   code Quiz.py
+   ```
 - Add your changes:
    ```sh
    git add .
