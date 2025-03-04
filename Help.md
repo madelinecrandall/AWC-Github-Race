@@ -35,7 +35,7 @@
    ```
 - Push to GitHub:
    ```sh
-   git push origin your-username-feature
+   git push origin yourUsername-teamName
    ```
 
 ### **5. Submit a Pull Request**
