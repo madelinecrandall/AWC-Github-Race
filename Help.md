@@ -1,29 +1,29 @@
-## Step-by-Step Guide for Members
+## Helper Commands
 
-### **1. Fork the Repository**
+### **1. Forking the Repository**
 - Go to the original repo and click **Fork** (top-right corner).
 - This creates a copy under your GitHub account.
 
-### **2. Clone Your Fork**
+### **Cloning Your Fork**
 - Copy the repository URL and run:
    ```sh
-   git clone https://github.com/your-username/github-scavenger-hunt.git
+   git clone https://github.com/your-username/AWC-Github-Race.git
    ```
 
-### **3. Create a Branch**
+### **Creating a Branch**
 - Move into the repo folder:
    ```sh
-   cd github-scavenger-hunt
+   cd AWC-Github-Race
    ```
 - Create a new branch:
    ```sh
-   git checkout -b your-username-feature
+   git checkout -b your-username-teamName
    ```
 
-### **4. Make Your Changes**
-- Edit files using an editor (This will open Quiz.py in VS code, other editors may need different commands, or open manually)
+### **Making Your Changes**
+- Edit files using an editor (By default Windows uses Notepad, macOS uses TextEdit, and Linux uses nano or vim).
      ```sh
-   code Quiz.py
+   Notepad Quiz.py
    ```
 - Add your changes:
    ```sh
@@ -38,9 +38,3 @@
    git push origin yourUsername-teamName
    ```
 
-### **5. Submit a Pull Request**
-- Go to your forked repo on GitHub.
-- Click **Compare & Pull Request**.
-- Write a short message about your changes and submit!
-
-**Congrats! You just contributed to a GitHub project!**
