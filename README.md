@@ -32,7 +32,6 @@ Welcome to the **GitHub Scavenger Hunt**! Follow the challenges below to learn a
 ### Bonus (20 pts)
 - [ ] Add a `fun-fact.md` file with a fact about women in tech 
 - [ ] Create a markdown file with an idea for a volunteer opportunity 
-- [ ] Use the Git CLI (command line) instead of the GitHub UI 
 
 ---
 
